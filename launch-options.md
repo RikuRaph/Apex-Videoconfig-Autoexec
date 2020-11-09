@@ -1,1 +1,1 @@
-+exec autoexec +cl_showfps 4 -refresh 144 -novid -fps_max 
+-exec autoexec  -refresh 144 -novid -fps_max 0 -fullscreen -forcenovsync +gfx_nvnUseLowLatency 1 
